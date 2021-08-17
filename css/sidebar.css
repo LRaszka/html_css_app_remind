@@ -133,3 +133,8 @@ nav svg {
 .flagged svg {
     background-color: rgb(var(--color-flagged));
 }
+
+nav span {
+    font-size: 1.5ren;
+    line-height: 2.25ren;
+}
